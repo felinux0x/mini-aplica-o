@@ -69,7 +69,3 @@ go run main.go servidores --host=google.com
 
 Este projeto está sob a licença MIT.
 
----
-
-Desenvolvido com 💻 por [Seu Nome]
-
